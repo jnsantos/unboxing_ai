@@ -1,8 +1,7 @@
 ---
-
 layout: default
 title: Workshop XYZ
--------------------
+---
 
 # 📝 Workshop XYZ
 
