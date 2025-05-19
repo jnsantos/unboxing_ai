@@ -1,23 +1,20 @@
----
-layout: default
-title: Workshop XYZ
----
+
 
 # 📝 Workshop XYZ
 
 ---
 
-📅 **Data:** 15 de Junho, 2025
-🌍 **Local:** Online / Lisboa
-🎯 **Tópicos:** Interfaces Tangíveis, IA, IHC
-📩 **Contacto:** [exemplo@email.com](mailto:exemplo@email.com)
+📅 **Data:** 21 de maio, 2025
+🌍 **Local:** Online
+🎯 **Tópicos:** Inteligência Artificial, LLMs, Transformers, Prompts
+📩 **Contacto:** [jnsantos@ua.pt](mailto:jnsantos@ua.pt)
 
 ---
 
 ## 📚 Sobre o Workshop
 
-Este workshop é destinado a profissionais, investigadores e estudantes interessados em explorar o potencial das interfaces tangíveis (TUIs), inteligência artificial (IA) e interação humano-computador (IHC).
-Durante o evento, serão abordados conceitos teóricos e práticos, com demonstrações ao vivo e espaço para discussão.
+Este workshop é destinado a investigadores e alunos de Doutoramento, do Departamento de Comunicação e Arte da Universidade de Aveiro, particularmente da unidade de Investigação DigiMedia.
+Durante o Workshop serão abordados conceitos teóricos e práticos, com demonstrações ao vivo e (talvez) espaço para discussão.
 
 ---
 
@@ -25,8 +22,8 @@ Durante o evento, serão abordados conceitos teóricos e práticos, com demonstr
 
 | Horário | Sessão                                 |
 | ------- | -------------------------------------- |
-| 09:00   | Boas-Vindas e Introdução               |
-| 09:30   | Interfaces Tangíveis: Teoria e Prática |
+| 15:00   | Boas-Vindas e Introdução               |
+| 15:15   | Mergulho na origem dos LLMs            |
 | 11:00   | Intervalo                              |
 | 11:15   | IA em Contextos Físicos                |
 | 12:30   | Almoço                                 |
