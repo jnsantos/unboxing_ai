@@ -1,16 +1,16 @@
 
 
-# 📝 Workshop XYZ
+# 📝 Workshop Unboxing AI: uma introdução
 
----
+[---
 
-📅 **Data:** 21 de maio, 2025
-⏱️ **Hora:** 15 - 17h
-🌍 **Local:** Online
-🎯 **Tópicos:** Inteligência Artificial, LLMs, Transformers, Prompts
-📩 **Contacto:** [jnsantos@ua.pt](mailto:jnsantos@ua.pt)
+📅 **Data:** 21 de maio, 2025  
+⏱️ **Hora:** 15 - 17h  
+🌍 **Local:** Online  
+🎯 **Tópicos:** Inteligência Artificial, LLMs, Transformers, Prompts  
+📩 **Contacto:** [jnsantos@ua.pt](mailto:jnsantos@ua.pt)  
 
----
+---](https://jnsantos.github.io/unboxing_ai/)
 
 ## 📚 Sobre o Workshop
 
