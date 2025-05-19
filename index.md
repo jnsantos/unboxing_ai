@@ -5,6 +5,7 @@
 ---
 
 📅 **Data:** 21 de maio, 2025
+:stopwatch: 15 - 17h
 🌍 **Local:** Online
 🎯 **Tópicos:** Inteligência Artificial, LLMs, Transformers, Prompts
 📩 **Contacto:** [jnsantos@ua.pt](mailto:jnsantos@ua.pt)
@@ -24,11 +25,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 | ------- | -------------------------------------- |
 | 15:00   | Boas-Vindas e Introdução               |
 | 15:15   | Mergulho na origem dos LLMs            |
-| 11:00   | Intervalo                              |
-| 11:15   | IA em Contextos Físicos                |
-| 12:30   | Almoço                                 |
-| 14:00   | Sessão Prática                         |
-| 16:00   | Painel de Discussão                    |
+| 16:30   | Sessão Prática                         |
 | 17:00   | Encerramento                           |
 
 ---
@@ -43,8 +40,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 
 ## 📬 Fala Connosco
 
-Se tiveres dúvidas ou sugestões, entra em contacto: [exemplo@email.com](mailto:exemplo@email.com)
+Se tiverem dúvidas, sugestões ou apenas quiserem dar "dois dedos de conversa", entrem em contacto: [jnsantos@ua.pt](mailto:jnsantos.pt)
 
 ---
 
-*(C) 2025 - XYZ Workshop*
