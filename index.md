@@ -1,7 +1,5 @@
 ---
 title: ""
-layout: default
-hide_title: true
 ---
 
 # 📝 Workshop Unboxing AI: uma introdução
