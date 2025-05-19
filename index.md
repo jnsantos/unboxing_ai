@@ -5,7 +5,7 @@
 ---
 
 📅 **Data:** 21 de maio, 2025
-:stopwatch: 15 - 17h
+⏱️ **Hora:** 15 - 17h
 🌍 **Local:** Online
 🎯 **Tópicos:** Inteligência Artificial, LLMs, Transformers, Prompts
 📩 **Contacto:** [jnsantos@ua.pt](mailto:jnsantos@ua.pt)
@@ -32,7 +32,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 
 ## 📂 Recursos e Materiais
 
-* 📄 [Material de Apoio (PDF)](material.pdf)
+* 📄 [Livro "ChatGPT in Scientific Research and Writing: A Beginner’s Guide" (PDF)](https://www.researchgate.net/publication/384032901_ChatGPT_in_Scientific_Research_and_Writing_A_Beginner's_Guide)
 * 💻 [Exemplos de Código (GitHub)](https://github.com/teu-repo)
 * 📝 [Formulário de Inscrição](https://forms.example.com)
 
