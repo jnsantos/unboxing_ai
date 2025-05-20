@@ -52,7 +52,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 * 🎓 [Google for Developers - LLMs: Fine-tuning, Distillation, and Prompt Engineering](https://developers.google.com/machine-learning)
 * 🎓 [Kaggle - 5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai)
 * 🎓 [OpenAi Cookbook](https://cookbook.openai.com/)
-* 🎓 [MicroSoft Learning Hub](https://learn.microsoft.com/en-us/ai/?tabs=developer))
+* 🎓 [MicroSoft Learning Hub](https://learn.microsoft.com/en-us/ai/?tabs=developer)
 
 ---
 
