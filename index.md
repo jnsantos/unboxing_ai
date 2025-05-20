@@ -53,6 +53,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 * 🎓 [Kaggle - 5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai)
 * 🎓 [OpenAi Cookbook](https://cookbook.openai.com/)
 * 🎓 [MicroSoft Learning Hub](https://learn.microsoft.com/en-us/ai/?tabs=developer)
+* 🎓 [Hugging Face Learn](https://huggingface.co/learn)
 
 ---
 
