@@ -36,7 +36,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 ### Livro
 * 📄 [Livro "ChatGPT in Scientific Research and Writing: A Beginner’s Guide" (PDF)](https://www.researchgate.net/publication/384032901_ChatGPT_in_Scientific_Research_and_Writing_A_Beginner's_Guide)
 
-### ### Websites
+### Websites
 * 🌐 [Engati - Vanishing Gradient Problem](https://www.engati.com/glossary/vanishing-gradient-problem)
 * 🌐 [United Nations - Artificial Intelligence: Energy Use](https://unric.org/en/artificial-intelligence-how-much-energy-does-ai-use/)
 * 🌐 [United Nations - Environmental Impact of AI Lifecycle](https://wedocs.unep.org/20.500.11822/46288)
@@ -48,7 +48,7 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 * 🌐 [LM Studio](https://lmstudio.ai/)
 
 ### Cursos
-* 🎓 [Google for Developers - LLMs: Fine-tuning, Distillation, and Prompt Engineering](https://developers.google.com/machine-learning/crash-course/llm/tuning](https://developers.google.com/machine-learning)
+* 🎓 [Google for Developers - LLMs: Fine-tuning, Distillation, and Prompt Engineering](https://developers.google.com/machine-learning)
 * 🎓 [Kaggle - 5-Day Gen AI Intensive Course with Google Learn Guide](https://www.kaggle.com/learn-guide/5-day-genai)
 * 🎓 [OpenAi Cookbook](https://cookbook.openai.com/)
 * 🎓 [MicroSoft Learning Hub]([https://cookbook.openai.com/](https://learn.microsoft.com/en-us/ai/?tabs=developer))
