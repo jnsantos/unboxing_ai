@@ -33,8 +33,11 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 
 ## 📂 Recursos e Materiais
 
+### Apresentação 
+* 📄 [Apresentação "Unboxing AI:  uma introdução", em formato pdf](https://github.com/jnsantos/unboxing_ai/blob/main/Unboxing%20AI__%20uma%20introdu%C3%A7%C3%A3o.pdf)
+
 ### Livro
-* 📄 [Livro "ChatGPT in Scientific Research and Writing: A Beginner’s Guide" (PDF)](https://www.researchgate.net/publication/384032901_ChatGPT_in_Scientific_Research_and_Writing_A_Beginner's_Guide)
+* 📑 [Livro "ChatGPT in Scientific Research and Writing: A Beginner’s Guide" (PDF)](https://www.researchgate.net/publication/384032901_ChatGPT_in_Scientific_Research_and_Writing_A_Beginner's_Guide)
 
 ### Websites
 * 🌐 [Engati - Vanishing Gradient Problem](https://www.engati.com/glossary/vanishing-gradient-problem)
