@@ -59,6 +59,15 @@ Durante o Workshop serão abordados conceitos teóricos e práticos, com demonst
 * 🎓 [MicroSoft Learning Hub](https://learn.microsoft.com/en-us/ai/?tabs=developer)
 * 🎓 [Hugging Face Learn](https://huggingface.co/learn)
 
+### Redes sociais - Reddit
+* 👽 r/LocalLLM  
+* 👽 r/AI_Agents  
+* 👽 r/ArtificialIntelligence  
+* 👽 r/ChatGPPT  
+* 👽 r/generative 
+* 👽 r/huggingface  
+* 👽 r/LocalLLaMA  
+
 ---
 
 ## 📬 Fala Comigo
